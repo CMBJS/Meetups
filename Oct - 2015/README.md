@@ -15,7 +15,7 @@
 * Slides : [Slides](http://slides.com/nadeeshacabral/deck-4#/)
 
 ----
-* Adobe Apps with JS
+* Adobe Apps with JS -[Thameera‏ Senanayaka](https://twitter.com/thameera)
 * Slides : [Slides](http://slides.com/thameera/js-in-adobe-apps)
 
 ---
