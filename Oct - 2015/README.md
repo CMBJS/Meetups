@@ -1,13 +1,13 @@
 [Meetup - October 2015 - Javascript Reloaded](http://j.mp/jsReload)
 ==================
 
-![jsReload](https://github.com/CMBJS/Meetups/tree/master/Oct%20-%202015/9th.jpg)
+![jsReload](https://raw.githubusercontent.com/CMBJS/Meetups/master/Oct%20-%202015/9th.jpg)
 
 ###Presentations
 
 
 * "Diving into React.js/Flux" - [Hasitha Liyanage](https://twitter.com/h_liyan)
-* Slides : [PDF](https://github.com/CMBJS/Meetups/tree/master/Oct%20-%202015/2015-10-15-CMBJS-DivingintoReact.jsFlux.pdf)
+* Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Oct%20-%202015/2015-10-15-CMBJS-DivingintoReact.jsFlux.pdf)
 
 ----
 
