@@ -22,7 +22,7 @@
 
 ###ReadMe Coverage
 
-[Readme Article]()
+[Readme Article](http://readme.lk/cmbjs-javascript-reloaded/)
 
 
 
