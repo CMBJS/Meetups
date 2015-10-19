@@ -22,7 +22,7 @@
 
 ###ReadMe Coverage
 
-[Readme Article](http://readme.lk/cmbjs-javascript-reloaded/)
+[Readme Article](http://readme.lk/cmbjs-javascript-reloaded/) - [Mazin Hussain](https://twitter.com/mazin_hussain94) 
 
 
 
