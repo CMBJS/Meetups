@@ -15,12 +15,12 @@
 * Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Nov%20-%202015/2015-11-17-SLASCOM-JavaScript.pdf)
 
 ----
-* How Javascript Works -[Arunoda Susiripala](https://twitter.com/arunoda)
+* How Javascript Works - [Arunoda Susiripala](https://twitter.com/arunoda)
 * Slides : [SpeakerDeck](https://speakerdeck.com/arunoda/how-javascript-works)
 
 ----
 
-* How Javascript Works -Sumith Gunasekara
+* How Javascript Works - Sumith Gunasekara
 * Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Nov%20-%202015/Sumith-Presentation.pdf)
 
 ----
