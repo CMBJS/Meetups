@@ -6,7 +6,7 @@
 ###Presentations
 
 
-* "Bizzare Javascript Paradigm(s)" - [Nadeesha Cabral](https://twitter.com/ncthis)
+* Bizzare Javascript Paradigm(s) - [Nadeesha Cabral](https://twitter.com/ncthis)
 * Slides : [Slides](http://slides.com/nadeeshacabral/deck-5#/)
 
 ----
@@ -20,7 +20,7 @@
 
 ----
 
-* How Javascript Works - Sumith Gunasekara
+* Chinks in the Armor of the Beast - Sumith Gunasekara
 * Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Nov%20-%202015/Sumith-Presentation.pdf)
 
 ----
