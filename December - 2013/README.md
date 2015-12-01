@@ -1,4 +1,4 @@
-[Meetups - December](http://www.meetup.com/Colombo-JS-Meetup/events/153212672/)
+[Gets are deeper, sets are shallow](http://www.meetup.com/Colombo-JS-Meetup/events/153212672/)
 ==================
 
 
@@ -10,10 +10,6 @@ Advanced JavaScript With OOP - By Malitha Gamage
 
 ###Meetup Description 
 We are sheduled a talk in OOP with JavaScript 
-
-
-And we will let you know about the agenda soon.
-
 
 OPEN JAM TALKS @ #CMBJS Meetup 2 (Gets are deeper, sets are shallow)
 
