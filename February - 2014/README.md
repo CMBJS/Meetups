@@ -1,7 +1,7 @@
 [CMB JS : The 3rd](http://www.meetup.com/Colombo-JS-Meetup/events/163220432/)
 ==================
 
-![The 3rd](https://raw.githubusercontent.com/CMBJS/Meetups/master/February%20-%202014/js3.png)
+![The 3rd](https://raw.githubusercontent.com/CMBJS/Meetups/master/February%20-%202014/JS3.png)
 
 
 ###Presentations
@@ -36,7 +36,7 @@
 
 * [ReadMe Article](http://readme.lk/cmb-js/)
 
-![The 3rd: Newspaper article](https://raw.githubusercontent.com/CMBJS/Meetups/master/February%20-%202014/newspaper.png)
+![The 3rd: Newspaper article](https://raw.githubusercontent.com/CMBJS/Meetups/master/February%20-%202014/newspaper.jpg)
 
 
 ----
