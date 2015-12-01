@@ -1,7 +1,7 @@
 [Slasscom IT Week - November 2015 - Conquer the Beast in JavaScript](http://j.mp/1MRZ8Xz)
 ==================
 
-![jsReload](https://raw.githubusercontent.com/CMBJS/Meetups/master/Nov%20-%202015/itweek.jpg)
+![itweek](https://raw.githubusercontent.com/CMBJS/Meetups/master/Nov%20-%202015/itweek.jpg)
 
 ###Presentations
 
