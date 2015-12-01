@@ -1,4 +1,4 @@
-[Meetups - February](http://www.meetup.com/Colombo-JS-Meetup/events/163220432/)
+[CMB JS : The 3rd](http://www.meetup.com/Colombo-JS-Meetup/events/163220432/)
 ==================
 
 
@@ -12,7 +12,7 @@
      
 * "Fixing the V in MV* - The reactive way" - By Nadeesha Cabral
 
-* [Slides - http://slid.es/nadeeshacabral/reactjs-on-colmobo-js-meetup](http://slid.es/nadeeshacabral/reactjs-on-colmobo-js-meetup)
+   * [Slides - http://slid.es/nadeeshacabral/reactjs-on-colmobo-js-meetup](http://slid.es/nadeeshacabral/reactjs-on-colmobo-js-meetup)
 
 
 -----
