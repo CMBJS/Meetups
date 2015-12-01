@@ -41,9 +41,9 @@
 
 ----
 
-### Adgenda
+### Agenda
 
-####"What really matter in SPA architectures?" - By Hasith Yaggahavita from 99x
+####"What really matter in SPA architectures?" - By Hasith Yaggahavita from 99x Technology
 
 Hasith will talk about the important design considerations of SPA development. 
 He will touch upon framework evolution from JQuery to modern MVVM, MVC frameworks 
