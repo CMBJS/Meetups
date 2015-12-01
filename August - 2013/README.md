@@ -1,4 +1,4 @@
-[Meetups](http://www.meetup.com/Colombo-JS-Meetup/events/130658102/)
+[Inaugural Colombo JS meetup](http://www.meetup.com/Colombo-JS-Meetup/events/130658102/)
 =======
 
 Inaugural of enthusiastic JavaScript developers in Sri Lanka to talk and share there passion in JavaScrip,t we hope to have a interactive meetup, we will have Arunoda and Lakshan as the speakers, and anyone who likes to showcase what they have done. 
