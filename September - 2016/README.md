@@ -10,7 +10,7 @@
 * Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/September%20-%202016/javascript_promises.pdf)
 
 ----
-* Demo - [Raathigeshan Kugaran](https://github.com/Raathigesh)
+* Demo - [Raathigeshan Kugarajan](https://github.com/Raathigesh)
 * Slides : Same PDF
 
 ----
