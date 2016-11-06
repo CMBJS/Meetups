@@ -7,11 +7,11 @@
 
 
 * Introduction to Promises - [Isuru Jayasooriya](https://twitter.com/razmik89)
-* Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Sepetember%20-%202016/javascript_promises.pdf)
+* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/September%20-%202016/javascript_promises.pdf)
 
 ----
 * Demo - [Raathigeshan Kugaran](https://github.com/Raathigesh)
-* Slides : [PDF](https://raw.githubusercontent.com/CMBJS/Meetups/master/Sepetember%20-%202016/javascript_promises.pdf)
+* Slides : Same PDF
 
 ----
 
