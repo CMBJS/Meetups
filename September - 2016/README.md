@@ -6,7 +6,7 @@
 ### Presentation ###
 
 
-* Introduction to Promises - [Isuru Jayasooriya](https://twitter.com/razmik89)
+* Introduction to Promises - [Isuru Jayasooriya](https://www.facebook.com/isuru.jayasooriya)
 * Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/September%20-%202016/javascript_promises.pdf)
 
 ----
