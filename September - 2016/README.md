@@ -1,4 +1,4 @@
-[Promises in Javascript - Octomber 2016](http://bit.ly/promisesJS)
+[Promises in Javascript - October 2016](http://bit.ly/promisesJS)
 ==================
 
 ![Promises in Javascript](https://raw.githubusercontent.com/CMBJS/Meetups/master/September%20-%202016/Promises.png)
