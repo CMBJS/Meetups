@@ -1,12 +1,12 @@
-[Thinking Reactive with Javascript - April 2017](http://bit.ly/promisesJS)
+[Thinking Reactive with Javascript - April 2017](http://bit.ly/withRxJS)
 ==================
 
 ![Thinking Reactive with Javascript](https://github.com/CMBJS/Meetups/blob/master/April%20-%202017/RxJS.jpg?raw=true)
 
 ### Presentations ###
 
-
-* Thinking Reactive with Javascript 
+#### Thinking Reactive with Javascript ####
+* Speakers
 	- Lasitha Petthawadu
 	- Yohan Gomez
 	- [Raathigeshan Kugarajan](https://github.com/Raathigesh)
