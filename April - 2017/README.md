@@ -6,7 +6,7 @@
 ### Presentations ###
 
 #### Thinking Reactive with Javascript ####
-* Speakers
+* Speakers :
 	- Lasitha Petthawadu
 	- Yohan Gomez
 	- [Raathigeshan Kugarajan](https://github.com/Raathigesh)
@@ -15,8 +15,10 @@
 ----
 
 [RxData](https://github.com/cinergix/rxdata)
-* Demo - [Muhammed Thanish](https://github.com/mnmtanish)
+* Speaker : 
+	- [Muhammed Thanish](https://github.com/mnmtanish)
 * Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/April%20-%202017/rxdata.pdf)
+* Demo: [Demo](https://github.com/mnmtanish/rxdata-demo)
 
 ----
 
