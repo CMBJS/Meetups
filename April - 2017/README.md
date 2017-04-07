@@ -1,7 +1,7 @@
 [Thinking Reactive with Javascript - April 2017](http://bit.ly/promisesJS)
 ==================
 
-![Thinking Reactive with Javascript](https://raw.githubusercontent.com/CMBJS/Meetups/master/April%20-%202017/RxJs.jpg)
+![Thinking Reactive with Javascript](https://github.com/CMBJS/Meetups/blob/master/April%20-%202017/RxJS.jpg?raw=true)
 
 ### Presentations ###
 
