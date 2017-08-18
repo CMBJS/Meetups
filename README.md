@@ -4,3 +4,5 @@
 ======================================================================
 
 All the presentations and other resources from the CMBJS meetups.
+
+- Official Facebook Group: [JavaScript Sri Lanka](https://www.facebook.com/groups/cmbjs/)
