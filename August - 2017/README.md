@@ -9,7 +9,7 @@
 
 ----
 * JSON Web Tokens - [Thameera Senanayaka](https://twitter.com/thameera)
-	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/jwt.pdf)
+	* Slides : [SpeakerDeck](https://speakerdeck.com/thameera/json-web-tokens) (or [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/jwt.pdf))
 
 ----
 
