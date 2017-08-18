@@ -1,4 +1,4 @@
-[CMBJS : August Edtions](http://bit.ly/cmbJSAug17)
+[CMBJS : August Edition](http://bit.ly/cmbJSAug17)
 ==================
 
 ### Presentation ###
