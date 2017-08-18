@@ -1,4 +1,4 @@
-![CMBJS Logo](./cmbjs-logo.jpg)
+![CMBJS Logo](./cmbjs-logo.png)
 
 [Colombo JavaScript Meetup](https://www.meetup.com/Colombo-JS-Meetup/)
 ======================================================================
