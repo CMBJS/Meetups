@@ -5,16 +5,16 @@
 
 
 * NodeJS Security - [Ishan 'Fishy' Marikar ](https://github.com/ishan-marikar)
-	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/Auguest%20-%202017/SecurityInNodeJS.pdf)
+	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/SecurityInNodeJS.pdf)
 
 ----
 * JSON Web Tokens - [Thameera Senanayaka](https://twitter.com/thameera)
-	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/Auguest%20-%202017/jwt.pdf)
+	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/jwt.pdf)
 
 ----
 
 * Securing NodeJS APIs with JWT - [Chathu Vishwajith](https://chathu.me)
-	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/Auguest%20-%202017/SecuringNodeJSAPIsWithJWT.pdf)
+	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/SecuringNodeJSAPIsWithJWT.pdf)
 	* Code Repository : [GitHub](https://github.com/iamchathu/cmbjs-express-api-auth-demo)
 
 ----
