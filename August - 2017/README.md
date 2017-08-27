@@ -14,7 +14,7 @@
 ----
 
 * Securing NodeJS APIs with JWT - [Chathu Vishwajith](https://chathu.me)
-	* Slides : [PDF](https://github.com/CMBJS/Meetups/raw/master/August%20-%202017/SecuringNodeJSAPIsWithJWT.pdf)
+	* Slides : [SpeakerDeck](https://speakerdeck.com/iamchathu/cmbjs-meetup-securing-nodejs-apis-with-jwt)
 	* Code Repository : [GitHub](https://github.com/iamchathu/cmbjs-express-api-auth-demo)
 
 ----
